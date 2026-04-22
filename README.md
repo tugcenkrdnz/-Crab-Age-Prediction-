@@ -1,4 +1,5 @@
-# 🦀 Yengeç Yaşı Tahmin Uygulaması (Crab Age Prediction)
+# Kaggle Playground S3E16-🦀 Regression with a Crab Age Dataset
+(Yengeç Yaşı Tahmin Uygulaması)
 
 Bu proje, yengeçlerin fiziksel özelliklerini (ağırlık, boyut, kabuk ağırlığı vb.) kullanarak yaşlarını tahmin eden bir Makine Öğrenmesi uygulamasıdır. Model, Kaggle'daki "Crab Age Prediction" veri seti üzerinde eğitilmiştir.
 
