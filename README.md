@@ -1,4 +1,4 @@
-#Kaggle Playground S3E16 -  🦀 Yengeç Yaşı Tahmin Uygulaması (Crab Age Prediction)
+# Kaggle Playground S3E16 -  🦀 Yengeç Yaşı Tahmin Uygulaması (Crab Age Prediction)
 
 Bu proje, yengeçlerin fiziksel özelliklerini kullanarak yaşlarını tahmin eden, yüksek performanslı bir Makine Öğrenmesi uygulamasıdır. Model, Kaggle'daki "Crab Age Prediction" veri seti üzerinde Apple M4 mimarisi üzerinde optimize edilerek eğitilmiştir.
 
